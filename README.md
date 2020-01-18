@@ -4,4 +4,16 @@ This project was developed in partnership with BMD Software company and had as i
 
 As a result, a web platform was developed to enable the creation of virtual and collaborative spaces for sharing and analyzing clinical research data. It is a system that meets strong security requirements, including two-factor authentication and protection of data copy by its users.
 
+### System Implementation
 
+### Demonstration
+
+### Library Dependencies
+
+[Java Docker API Client](https://github.com/docker-java/docker-java)
+
+[Keycloak API](https://www.keycloak.org/docs-api/8.0/javadocs/index.html)
+
+[Java Persistence API](https://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html)
+
+[WebDav Client](https://github.com/lookfirst/sardine)
