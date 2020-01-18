@@ -9,6 +9,11 @@ As a result, a web platform was developed to enable the creation of virtual and 
 ![alt text](https://github.com/gabrielpatricio/Private-Research-Containers/blob/master/prcarch.png)
 
 ### Demonstration
+##### Authentication and Authorization System
+##### Project and User Management
+##### Highly customized integration with container-based applications
+##### RBAC System
+##### Creation of your own virtual research environment 
 
 ### Library Dependencies
 
