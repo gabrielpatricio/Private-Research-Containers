@@ -6,6 +6,8 @@ As a result, a web platform was developed to enable the creation of virtual and 
 
 ### System Implementation
 
+![alt text](https://github.com/gabrielpatricio/Private-Research-Containers/blob/master/prcarch.png)
+
 ### Demonstration
 
 ### Library Dependencies
