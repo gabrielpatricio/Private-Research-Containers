@@ -15,15 +15,15 @@ As a result, a web platform was developed to enable the creation of virtual and 
 
 ##### Project and User Management
 
-![alt text](https://github.com/gabrielpatricio/Private-Research-Containers/blob/master/prcAuthDemo.gif)
+![alt text](https://github.com/gabrielpatricio/Private-Research-Containers/blob/master/projusermanag.gif)
 
 ##### Highly customized integration with container-based applications
 
-![alt text](https://github.com/gabrielpatricio/Private-Research-Containers/blob/master/prcAuthDemo.gif)
+![alt text](https://github.com/gabrielpatricio/Private-Research-Containers/blob/master/highlycustom.gif)
 
 ##### RBAC System 
 
-![alt text](https://github.com/gabrielpatricio/Private-Research-Containers/blob/master/prcAuthDemo.gif)
+![alt text](https://github.com/gabrielpatricio/Private-Research-Containers/blob/master/rbacsys.gif)
 
 ### Library Dependencies
 
