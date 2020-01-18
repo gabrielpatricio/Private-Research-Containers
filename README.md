@@ -10,12 +10,23 @@ As a result, a web platform was developed to enable the creation of virtual and 
 
 ### Demonstration
 ##### Authentication and Authorization System
+
+![alt text](https://github.com/gabrielpatricio/Private-Research-Containers/blob/master/prcAuthDemo.gif)
+
 ##### Project and User Management
+
+![alt text](https://github.com/gabrielpatricio/Private-Research-Containers/blob/master/prcAuthDemo.gif)
+
 ##### Highly customized integration with container-based applications
-##### RBAC System
-##### Creation of your own virtual research environment 
+
+![alt text](https://github.com/gabrielpatricio/Private-Research-Containers/blob/master/prcAuthDemo.gif)
+
+##### RBAC System 
+
+![alt text](https://github.com/gabrielpatricio/Private-Research-Containers/blob/master/prcAuthDemo.gif)
 
 ### Library Dependencies
+
 
 [Java Docker API Client](https://github.com/docker-java/docker-java)
 
